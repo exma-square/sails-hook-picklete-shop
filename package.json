@@ -14,14 +14,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaumard/sails-hook-echo"
+    "url": "https://github.com/exma-square/sails-hook-picklete-shop"
   },
   "devDependencies": {
     "sails": "~0.11.0"
   },
   "dependencies": {
     "asyncawait": "^1.0.6",
-    "babel-polyfill": "^6.26.0",
     "sails-util-mvcsloader": "~0.3.0"
   },
   "sails": {
