@@ -5,6 +5,7 @@ module.exports = function(sequelize, DataTypes) {
     name: DataTypes.STRING,
     // 優惠名稱
     address: DataTypes.STRING,
+    image: DataTypes.STRING,
     // 優惠類型: price, discount
     open: DataTypes.STRING,
     // 優惠內容
