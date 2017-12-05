@@ -3,5 +3,5 @@
  */
 module.exports.routes = {
     '/api/shops': 'ShopController.getAllShop',
-    '/admin/goods/create': 'ShopController.test'
+    // '/admin/goods/create': 'ShopController.test'
 };
